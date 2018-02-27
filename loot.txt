@@ -1,0 +1,4 @@
+health potion,wooden shield,wooden sword,simple bow,
+mega health potion,bronze shield,bronze axe,ranger bow,
+iron sword,iron shield,chainmail,iron helmet,gauntlets,
+diamond,invisibility cloak,diamond sword,fire stone,
